@@ -1,4 +1,4 @@
-## Greetings! 👋
+### Greetings! 👋
 
 I'm a versatile developer proficient in Supabase, Flutter, and Vue.js, specializing in full-stack development. Presently, I'm actively engaged with Revival Group, where I'm honing my skills and staying updated with the latest advancements in technology.
 
