@@ -43,3 +43,8 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+
+### 📊 GitHub Stats
+![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donpuerto&show_icons=true&theme=tokyonight)
+
