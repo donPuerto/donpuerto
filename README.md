@@ -47,4 +47,6 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 
 ### 📊 GitHub Stats
 ![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donpuerto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donpuerto&layout=compact&theme=tokyonight)
+
 
