@@ -11,8 +11,9 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Don Puerto
 [![](https://img.shields.io/badge/-X-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/donpuerto_)
-[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/donPuerto)
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arlindo-puerto-58a26295/)
+[![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/donPuerto)
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arlindo-puerto-58a26295/)
+
 
 
 
