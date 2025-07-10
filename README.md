@@ -10,9 +10,10 @@ Allow me to provide you with some insights:
 As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep your balance, you must keep moving." I firmly embrace the ethos of continuous growth and perpetual learning. I'm genuinely thrilled about the prospects that lie ahead and the boundless opportunities they present.
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Don Puerto
-[![](https://img.shields.io/badge/-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/donpuerto_)
-[![](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/donPuerto)
-[![](https://img.shields.io/badge/-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlindo-puerto-58a26295/)
+[![](https://img.shields.io/badge/X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/donpuerto_)
+[![](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/donPuerto)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlindo-puerto-58a26295/)
+
 
 
 
