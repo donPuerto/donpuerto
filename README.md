@@ -57,6 +57,10 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=donpuerto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+### 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=donpuerto&theme=tokyonight&no-frame=true&margin-w=10)
+
 </div>
 
 
