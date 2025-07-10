@@ -45,6 +45,8 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
 ![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donpuerto&show_icons=true&theme=tokyonight)
@@ -54,6 +56,9 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 ### 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=donpuerto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 
 
 
