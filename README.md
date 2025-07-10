@@ -16,7 +16,7 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 
 
 
-
+<div align="center">
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -45,7 +45,7 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 
-<div align="center">
+
 
 ## 📊 GitHub Stats
 
