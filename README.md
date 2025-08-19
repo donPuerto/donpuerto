@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://x.com/donpuerto_/header_photo" alt="Don Puerto Header Photo" width="100%" height="200" style="object-fit: cover;">
-  
+  <img alt="Image" draggable="true" src="https://pbs.twimg.com/profile_banners/3858329474/1446527262/1500x500" alt="Don Puerto Header Photo" width="100%" height="200" style="object-fit: cover;">
   ## Fullstack Developer
   
   *"Simplicity is the ultimate sophistication"*
