@@ -14,11 +14,30 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
 [![](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/donPuerto)
 [![](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlindo-puerto-58a26295/)
 
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Hugo Richard Banner" width="100%" height="200" style="object-fit: cover;">
+  
+  ## Frontend Architect & Open Source Developer
+  
+  *"Simplicity is the ultimate sophistication"*
+</div>
+
+<div align="center">
+  <a href="https://x.com/donpuerto_">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arlindo-puerto-58a26295/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hrcd.fr">
+    <img src="https://comforting-bunny-74c20b.netlify.app/" />
+  </a>
+</div>
 
 
 <div align="center">
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Current 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
