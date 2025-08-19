@@ -29,8 +29,8 @@ As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep y
   <a href="https://www.linkedin.com/in/arlindo-puerto-58a26295/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://hrcd.fr">
-    <img src="https://comforting-bunny-74c20b.netlify.app/" />
+  <a href="https://hrcd.fr](https://comforting-bunny-74c20b.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
