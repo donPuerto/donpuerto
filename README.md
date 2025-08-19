@@ -1,23 +1,7 @@
-### Greetings! 👋
-
-I'm a versatile developer proficient in Supabase, Flutter, and Vue.js, specializing in full-stack development. Presently, I'm actively engaged with Revival Group, where I'm honing my skills and staying updated with the latest advancements in technology.
-
-Allow me to provide you with some insights:
-
-🔭 Currently, I'm immersed in a captivating Flutter project integrated with Supabase.
-🌱 I'm diligently expanding my knowledge in Supabase, Flutter, and Vue, embracing a constant learning mindset.
-
-As famously quoted by Albert Einstein, "Life is like riding a bicycle. To keep your balance, you must keep moving." I firmly embrace the ethos of continuous growth and perpetual learning. I'm genuinely thrilled about the prospects that lie ahead and the boundless opportunities they present.
-
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Don Puerto
-[![](https://img.shields.io/badge/X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/donpuerto_)
-[![](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/donPuerto)
-[![](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlindo-puerto-58a26295/)
-
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Hugo Richard Banner" width="100%" height="200" style="object-fit: cover;">
+  <img src="https://x.com/donpuerto_/header_photo" alt="Don Puerto Header Photo" width="100%" height="200" style="object-fit: cover;">
   
-  ## Frontend Architect & Open Source Developer
+  ## Fullstack Developer
   
   *"Simplicity is the ultimate sophistication"*
 </div>
