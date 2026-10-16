@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0038A8,100:CE1126&text=Don%20Puerto&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Philippines&descAlignY=58&descSize=20" width="100%" alt="Don Puerto, Fullstack Developer, Philippines" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0038A8,100:CE1126&text=Don%20Puerto&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=AI%20Automation%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=22" width="100%" alt="Don Puerto, AI Automation and Full-Stack Developer" />
 
 <img src="https://flagcdn.com/ph.svg" height="28" alt="Flag of the Philippines" />
 
-### Building web apps, mobile apps and AI automations from the Philippines
+### AI agents, voice assistants and automations, plus the apps they run in. Built in the Philippines.
 
 *"Simplicity is the ultimate sophistication"*
 
@@ -16,7 +16,7 @@
 
 <br />
 
-I build full products end to end: **Nuxt** and **Next.js** front ends on **Supabase**, **Flutter** and **Expo** mobile apps, interactive **3D** with Three.js, and AI agents and automations with **Claude** and **n8n**.
+I build AI that does real work: **voice agents** that answer calls and book appointments (Retell, ElevenLabs, Telnyx, Deepgram), **chat agents** and **MCP tools** on Claude, OpenAI and Gemini, and **n8n automations** that connect them to CRMs, e-signing and databases. Around them I ship the full stack: **Nuxt** and **Next.js** apps on **Supabase**, **Flutter** and **Expo** mobile apps, and interactive **3D** with Three.js.
 
 <br />
 
@@ -35,8 +35,14 @@ I build full products end to end: **Nuxt** and **Next.js** front ends on **Supab
 **Backend & data**<br />
 <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,py,fastapi,docker&perline=9" alt="Supabase, PostgreSQL, Node.js, Python, FastAPI, Docker" />
 
-**AI & automation**<br />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+**AI models & agents**<br />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge" alt="OpenAI" /> <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+
+**Voice AI**<br />
+<img src="https://img.shields.io/badge/Retell%20AI-0038A8?style=for-the-badge" alt="Retell AI" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" /> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" /> <img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge" alt="Telnyx" />
+
+**Automation & CRM**<br />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/GoHighLevel-188BF6?style=for-the-badge" alt="GoHighLevel" />
 
 **Tools & deploy**<br />
 <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,vitest,vercel,netlify,cloudflare&perline=9" alt="VS Code, Git, GitHub, GitHub Actions, Vitest, Vercel, Netlify, Cloudflare" />
