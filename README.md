@@ -24,28 +24,34 @@ I build AI that does real work: **voice agents** that answer calls and book appo
 
 ## ⚡ Current stack
 
+**AI models & agents**<br />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge" alt="OpenAI" /> <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge" alt="AWS Bedrock" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /> <img src="https://img.shields.io/badge/Hermes%20Agent-4B32C3?style=for-the-badge" alt="Hermes Agent" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+
+**RAG & data**<br />
+<img src="https://skillicons.dev/icons?i=supabase,postgres&perline=9" alt="Supabase, PostgreSQL" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="pgvector" />
+
+**Voice & messaging**<br />
+<img src="https://img.shields.io/badge/Retell%20AI-0038A8?style=for-the-badge" alt="Retell AI" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge" alt="Twilio" /> <img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge" alt="Telnyx" /> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" />
+
+**Automation & integrations**<br />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Microsoft%20365%20%2F%20Graph-0078D4?style=for-the-badge" alt="Microsoft 365 and Graph API" /> <img src="https://img.shields.io/badge/DocuSign-FFCC22?style=for-the-badge" alt="DocuSign" /> <img src="https://img.shields.io/badge/PDF%20%26%20OCR-CE1126?style=for-the-badge" alt="PDF and OCR extraction" /><br />
+<sub>REST APIs · Webhooks · OAuth · Retries & monitoring · Human-in-the-loop approvals · Dashboards & pipelines</sub>
+
 **Web**<br />
-<img src="https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,ts,tailwind,threejs,pinia,vite&perline=9" alt="Nuxt, Vue, Next.js, React, TypeScript, Tailwind CSS, Three.js, Pinia, Vite" /><br />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" /> <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="React Three Fiber" />
+<img src="https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,ts,js,tailwind,threejs,vite&perline=9" alt="Nuxt, Vue, Next.js, React, TypeScript, JavaScript, Tailwind CSS, Three.js, Vite" /><br />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" /> <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="React Three Fiber" /> <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square" alt="Pinia" />
 
 **Mobile**<br />
 <img src="https://skillicons.dev/icons?i=flutter,dart&perline=9" alt="Flutter, Dart" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48" alt="Expo / React Native" />
 
-**Backend & data**<br />
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,py,fastapi,docker&perline=9" alt="Supabase, PostgreSQL, Node.js, Python, FastAPI, Docker" />
-
-**AI models & agents**<br />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge" alt="OpenAI" /> <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-
-**Voice AI**<br />
-<img src="https://img.shields.io/badge/Retell%20AI-0038A8?style=for-the-badge" alt="Retell AI" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" /> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" /> <img src="https://img.shields.io/badge/Telnyx-00C08B?style=for-the-badge" alt="Telnyx" />
-
-**Automation & CRM**<br />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/GoHighLevel-188BF6?style=for-the-badge" alt="GoHighLevel" />
+**Backend & DevOps**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,py,docker,linux,aws&perline=9" alt="Node.js, Python, Docker, Linux, AWS" />
 
 **Tools & deploy**<br />
 <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,vitest,vercel,netlify,cloudflare&perline=9" alt="VS Code, Git, GitHub, GitHub Actions, Vitest, Vercel, Netlify, Cloudflare" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="48" alt="Playwright" />
 
 <br />
 
