@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0038A8,100:CE1126&text=Don%20Puerto&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=AI%20Automation%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=22" width="100%" alt="Don Puerto, AI Automation and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0038A8,100:CE1126&text=Don%20Puerto&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=AI%20Automation%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=22" width="100%" alt="Don Puerto, AI Automation and Full-Stack Developer" />
 
 <img src="https://flagcdn.com/ph.svg" height="28" alt="Flag of the Philippines" />
 
