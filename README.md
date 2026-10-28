@@ -57,7 +57,7 @@ I build AI that does real work: **voice agents** that answer calls and book appo
 
 ## 📊 GitHub stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=donpuerto&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FCD116&icon_color=CE1126&text_color=c9d1d9&ring_color=0038A8" alt="Don's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=donpuerto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FCD116&icon_color=CE1126&text_color=c9d1d9&ring_color=0038A8" alt="Don's GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=donpuerto&hide_border=true&background=0d1117&ring=FCD116&fire=CE1126&currStreakNum=FFFFFF&currStreakLabel=FCD116&sideNums=FFFFFF&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub contribution streak" />
 
 ### 🏆 Trophies
